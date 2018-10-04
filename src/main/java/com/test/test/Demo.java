@@ -9,4 +9,8 @@ public class Demo {
 		System.out.println("hello git");
 	}
 	
+	public static void add(String[] args) {
+		System.out.println("hello add");
+	}
+	
 }
